@@ -1,4 +1,6 @@
-## Tech stack: Vite + Vitest + React + TS + Tailwind + Ant design + Testing Library
+## Outliant FE Test
+
+### Tech stack: Vite + React + TS + Tailwind
 
 ## Running locally
 

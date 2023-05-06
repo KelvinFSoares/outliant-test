@@ -11,7 +11,7 @@ Clone the project
 Enter the project directory
 
 ```bash
-  cd tech-assigment
+  cd outliant-test
 ```
 
 Install the dependencies
